@@ -1,240 +1,44 @@
 [
   {
-    "id": 1,
-    "full_name": "Naveed Fida",
-    "email": "nf@example.com",
-    "phone_number": "12345678901",
-    "tags": "work,friend"
-  },
-  {
-    "id": 2,
-    "full_name": "Victor Reyes",
-    "email": "vpr@example.com",
-    "phone_number": "09876543210",
-    "tags": "work,friend"
-  },
-  {
-    "id": 3,
-    "full_name": "Pete Hanson",
-    "email": "ph@example.com",
-    "phone_number": "54321098761",
-    "tags": null
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 4
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 5
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 6
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 7
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 8
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
+    "full_name": "amir sad",
+    "phone_number": "87677625",
+    "email": "asjoon@yahho.com",
     "tags": null,
     "id": 9
   },
   {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 10
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 11
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
+    "full_name": "zach lavine",
+    "phone_number": "981237541235",
+    "email": "zachbulls@gmail.com",
     "tags": null,
     "id": 12
   },
   {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
+    "full_name": "jason tatum",
+    "phone_number": "98127532345",
+    "email": "jasonttt@celtics.org",
     "tags": null,
     "id": 13
   },
   {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
+    "full_name": "amir joon",
+    "phone_number": "87677625",
+    "email": "asjoon@yahho.com",
     "tags": null,
     "id": 14
   },
   {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 15
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
+    "full_name": "kyrie irving",
+    "phone_number": "9812734",
+    "email": "uncledrew@gmail.com",
     "tags": null,
     "id": 16
   },
   {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
+    "full_name": "trae young",
+    "phone_number": "80293745",
+    "email": "traehawks@nba.com",
     "tags": null,
     "id": 17
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 18
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 19
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 20
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 21
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 22
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 23
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 24
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 25
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 26
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 27
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 28
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 29
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 30
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 31
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 32
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 33
-  },
-  {
-    "full_name": "Eddie Murphy",
-    "phone_number": 8024457812,
-    "email": "ggeddie123@gmail.com",
-    "tags": null,
-    "id": 34
   }
 ]

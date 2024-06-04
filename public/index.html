@@ -71,13 +71,13 @@
     </thead>
     <tbody>
       {{#each contacts}}
-      <tr class="contact">
+      <tr class="contact" id="{{id}}">
         <td>{{full_name}}</td>
         <td>{{phone_number}}</td>
         <td>{{email}}</td>
         <td>{{tags}}</td>
-        <td><button>Edit</button></td>
-        <td><button>Delete</button></td>
+        <td><button class="edit-button">Edit</button></td>
+        <td><button class="delete-button">Delete</button></td>
         
       </tr>
       {{/each}}
