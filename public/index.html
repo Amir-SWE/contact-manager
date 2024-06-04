@@ -4,11 +4,90 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
+  <title>Contact Manager</title>
   <script src="/javascripts/jquery.js"></script>
   <script src="/javascripts/handlebars.js"></script>
+  <script src="/javascripts/scripts.js"></script>
+  <link rel="stylesheet" href="/stylesheets/styles.css"></link>
 </head>
 <body>
+  <h1 class="title">Contact Manager</h1>
+  <div class="addcontact-search">
+    <button class="btn-open-popup" onclick="togglePopup()">Add Contact</button>
+    <input class="search-bar" type="search" placeholder="Search"></input>
+  </div>
 
+  <div id="popupOverlay" 
+         class="overlay-container"> 
+        <div class="popup-box"> 
+            <h2 style="color: green;">Contact</h2> 
+            <form class="form-container"> 
+                <label class="form-label" 
+                       for="name"> 
+                  Name: 
+                  </label> 
+                <input class="form-input" type="text"  
+                       id="name" name="name" required> 
+  
+                <label class="form-label" for="email">Email:</label> 
+                <input class="form-input"
+                       type="email" 
+                       id="email" 
+                       name="email" required> 
+
+                <label class="form-label" for="number">Phone Number:</label> 
+                <input class="form-input"
+                      type="number" 
+                      id="number" 
+                      name="number" required> 
+  
+                <button class="btn-submit" 
+                        type="submit"> 
+                  Submit 
+                  </button> 
+            </form> 
+  
+            <button class="btn-close-popup" 
+                    onclick="togglePopup()"> 
+              Close 
+            </button> 
+      </div> 
+  </div> 
+  
+  <table class="contact-list-container">
+    
+  </table>
+
+  <script id="contact-template" type="text/x-handlebars">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Phone Number</th>
+        <th>Email</th>
+        <th>Tags</th>
+        <th></th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each contacts}}
+      <tr class="contact">
+        <td>{{full_name}}</td>
+        <td>{{phone_number}}</td>
+        <td>{{email}}</td>
+        <td>{{tags}}</td>
+        <td><button>Edit</button></td>
+        <td><button>Delete</button></td>
+        
+      </tr>
+      {{/each}}
+    </tbody>
+  </script>
+  <script> 
+    function togglePopup() { 
+        const overlay = document.getElementById('popupOverlay'); 
+        overlay.classList.toggle('show'); 
+    } 
+  </script> 
 </body>
 </html>
